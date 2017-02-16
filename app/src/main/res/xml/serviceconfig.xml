@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<service xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:android="http://schemas.android.com/apk/res-auto"-->
+<!--android:name=".MyAccessibilityService">-->
+<!--<intent-filter>-->
+<!--<action android:name="android.accessibilityservice.AccessibilityService"/>-->
+<!--</intent-filter>-->
+<!--<meta-data-->
+<!--android:name="android.accessibilityservice"-->
+<!--android:resource="@xml/serviceconfig.xml"/>-->
+<!--</service>-->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+                       android:accessibilityEventTypes="typeAllMask"
+                       android:accessibilityFeedbackType="feedbackGeneric"
+                       android:accessibilityFlags="flagDefault|flagReportViewIds"
+                       android:canRetrieveWindowContent="true"
+                       android:notificationTimeout="5000"
+                       android:packageNames="com.ziines.it, com.instagram.android"/>

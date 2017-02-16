@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_74e9b5bfc489dadf8f4af1a02696618ffcdcfbbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_977ce41c6ce67d52e4a47f7937cf7ffe9dcd9e04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_bcd263253cffd279c77c10df7fc23f59ceabdade/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_69ec7e9c3c591c9b83667d762b4d5ea253064fe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_a6fa303e02d861f30565ec3116a6dcc10ede9489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_124d533963e5fd1023beb2cd0103e873ec471692/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_4000694c37f41c5c03ff3a6971c389d22a58010b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_192ecacd7fffa078879aa5bfba75f28190e07b5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6a64c57575270a6379063989b44b36ca19ae820">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e5552b8768d8e0bdd0ad030308ed71dee333a455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_83ca5d87b84e30cfd71045daa305de7ceb662dc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_38e447ecb7e88116e5f91325bd33643050f45eda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4cc223a14c428eb095471918beb76afafd9e122">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5a5733a169591d2a7e8adb9d9ce7dc3149df1def/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93e5a36baaf712df34e5c0d520f3b76bbfbb30e6">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b90f8c2864bb7ca373403aaf7f3a597dcfc67830/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_a89febbfb9c035738e6ca910feb93694e797797f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_3fbdb82db43a51d2a42461f90c0aa67a037524ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_0786006540343319db1f2a0361dd5bef34fa5bbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_b9c6466f5af529da76ea1fd9a06644a0644196a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="542482aa02789c5fa22aaceda9800f1e3830a69b">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_82970a5b45ebce300e62d9902083ac23ee57ddf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_265e89315f8857b502bdadeb1c66032bfa32ceaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_a94d4f129e879a8bf8ffa2356c8d460c84b2689d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_9593919f2aea0dacc7a154491351afad048956b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/don/GitHub/AutoSendPostInstagramWithAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_f955a3c1de015b0a8cff3ce9f8a0788e7df2b259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/don/AndroidProject/TestAccessibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_919f88e545ea8f7b1a0e065e916dc45cfca7d423/classes.dex" />
+    </item>
+
+</items>
