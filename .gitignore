@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.gradle/
+/.idea/
+/build/
+.gitignore
+.gradle/2.14.1/taskArtifacts/cache.properties
+.gradle/2.14.1/taskArtifacts/cache.properties.lock
+.gradle/2.14.1/taskArtifacts/fileHashes.bin
+.idea/workspace.xml
+/TestAccessibility.iml
+/AutoSendPostInstagramWithAccessibility.iml
